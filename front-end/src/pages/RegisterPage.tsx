@@ -58,7 +58,6 @@ function RegisterPage() {
         borderRadius="lg"
         overflow="hidden"
         padding="5"
-        marginTop="10"
       >
         Inscrivez-vous
         <form

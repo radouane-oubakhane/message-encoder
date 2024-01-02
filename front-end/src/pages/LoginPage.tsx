@@ -56,7 +56,6 @@ function LoginPage() {
         borderRadius="lg"
         overflow="hidden"
         padding="5"
-        marginTop="10"
       >
         Connectez-vous
         <form
