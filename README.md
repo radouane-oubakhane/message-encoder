@@ -11,6 +11,9 @@ The primary objective of this project was to develop a web application enabling 
 The application leverages a modern technology stack to ensure robustness and security. Here's an overview of the technical architecture employed in the development of the application:
 - **TypeScript**:  Selected as the primary programming language for its static typing, enhancing code maintainability, and its compatibility with JavaScript for seamless integration with existing libraries.
 - **React**:  A popular JavaScript library for creating interactive user interfaces, employing a component-based approach for efficient UI management and the development of reactive applications.
+- **React Query**: A data-fetching and state management library for React applications.
+- **React Router**: A declarative routing library for React applications.
+- **Vite.js**: A fast build tool for modern web development.
 - **Chakra UI**:  A React component library that is both accessible and aesthetically pleasing, offering a set of ready-to-use components for creating consistent and attractive user interfaces.
 - **Express and Node.js**:  Express.js, a minimal and flexible Node.js framework for building robust and performant server-side web applications. Node.js serves as the server-side runtime environment, providing efficiency for real-time and event-driven web applications.
 - **MongoDB**:  A flexible and scalable NoSQL database used to store application data, ideal for handling unstructured or semi-structured data in modern web applications.
@@ -87,4 +90,5 @@ npm run dev
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+
 
